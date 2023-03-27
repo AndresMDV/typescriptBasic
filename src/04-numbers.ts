@@ -28,4 +28,5 @@
   console.log('bin', bin)
 
   const myNumber: number = 10;
+  let prueba: number;
 })();
