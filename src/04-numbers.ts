@@ -5,10 +5,10 @@
   console.log('productPrice', productPrice);
 
   let customerAge: number = 28;
-  customerAge = customerAge + '1' ;
+  customerAge = customerAge + 1 ;
   console.log('customerAge', customerAge);
 
-  let productInStock: number;
+  let productInStock: number = 15;
   console.log('productInStock', productInStock);
   if ( productInStock > 10 ){
     console.log('is greater');
